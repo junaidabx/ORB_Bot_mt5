@@ -1,0 +1,296 @@
+2024-03-03 02:16:11 [INFO] - Starting the trading script.
+2024-03-03 02:17:38 [ERROR] - initialize() failed, error code = (-6, 'Terminal: Authorization failed')
+2024-03-03 02:17:38 [INFO] - Current total range start time: 2024-03-02 21:17:38.259051
+2024-03-03 02:17:38 [INFO] - Current time: 2024-03-02 21:17:38.259051
+2024-03-03 02:17:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:17:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:17:38 [INFO] - Trading hour: True
+2024-03-03 02:18:38 [INFO] - Current time: 2024-03-02 21:18:38.267528
+2024-03-03 02:18:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:18:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:18:38 [INFO] - Trading hour: True
+2024-03-03 02:19:38 [INFO] - Current time: 2024-03-02 21:19:38.271147
+2024-03-03 02:19:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:19:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:19:38 [INFO] - Trading hour: True
+2024-03-03 02:20:38 [INFO] - Current time: 2024-03-02 21:20:38.274851
+2024-03-03 02:20:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:20:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:20:38 [INFO] - Trading hour: True
+2024-03-03 02:21:38 [INFO] - Current time: 2024-03-02 21:21:38.277838
+2024-03-03 02:21:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:21:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:21:38 [INFO] - Trading hour: True
+2024-03-03 02:21:38 [INFO] - Opening of range.
+2024-03-03 02:21:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:21:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:21:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:22:38 [INFO] - Current time: 2024-03-02 21:22:38.454889
+2024-03-03 02:22:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:22:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:22:38 [INFO] - Trading hour: True
+2024-03-03 02:22:38 [INFO] - Opening of range.
+2024-03-03 02:22:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:22:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:22:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:23:38 [INFO] - Current time: 2024-03-02 21:23:38.463854
+2024-03-03 02:23:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:23:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:23:38 [INFO] - Trading hour: True
+2024-03-03 02:23:38 [INFO] - Opening of range.
+2024-03-03 02:23:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:23:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:23:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:24:38 [INFO] - Current time: 2024-03-02 21:24:38.472549
+2024-03-03 02:24:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:24:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:24:38 [INFO] - Trading hour: True
+2024-03-03 02:24:38 [INFO] - Opening of range.
+2024-03-03 02:24:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:24:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:24:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:25:38 [INFO] - Current time: 2024-03-02 21:25:38.476246
+2024-03-03 02:25:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:25:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:25:38 [INFO] - Trading hour: True
+2024-03-03 02:25:38 [INFO] - Opening of range.
+2024-03-03 02:25:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:25:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:25:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:26:38 [INFO] - Current time: 2024-03-02 21:26:38.483577
+2024-03-03 02:26:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:26:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:26:38 [INFO] - Trading hour: True
+2024-03-03 02:26:38 [INFO] - Opening of range.
+2024-03-03 02:26:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:26:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:26:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:27:38 [INFO] - Current time: 2024-03-02 21:27:38.493418
+2024-03-03 02:27:38 [INFO] - Current total range end time: 2024-03-02 21:32:38.259051
+2024-03-03 02:27:38 [INFO] - Current opening range end time: 2024-03-02 21:21:38.259051
+2024-03-03 02:27:38 [INFO] - Trading hour: True
+2024-03-03 02:27:38 [INFO] - Opening of range.
+2024-03-03 02:27:38 [INFO] - Placing orders at the high and low of the opening range.
+2024-03-03 02:27:38 [INFO] - Response of mt5.copy_rates_range: None
+2024-03-03 02:27:38 [ERROR] - An error occurred: object of type 'NoneType' has no len()
+2024-03-03 02:32:49 [INFO] - Starting the trading script.
+2024-03-03 02:32:49 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 50000.0.
+2024-03-03 02:32:49 [ERROR] - Failed to retrieve symbol information.
+2024-03-03 02:32:49 [INFO] - Adjusting entry price for BTCUSD: 50000.0, Order type: 3
+2024-03-03 02:32:49 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 02:32:49 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 02:32:49 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 02:33:57 [INFO] - Starting the trading script.
+2024-03-03 02:35:24 [INFO] - Starting the trading script.
+2024-03-03 02:36:07 [INFO] - Starting the trading script.
+2024-03-03 02:39:47 [INFO] - Starting the trading script.
+2024-03-03 19:12:08 [INFO] - Starting the trading script.
+2024-03-03 19:12:38 [INFO] - Starting the trading script.
+2024-03-03 19:17:00 [INFO] - Starting the trading script.
+2024-03-03 19:39:35 [INFO] - Starting the trading script.
+2024-03-03 19:41:04 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 19:41:04 [ERROR] - Failed to retrieve symbol information.
+2024-03-03 19:41:04 [INFO] - Adjusting entry price for BTCUSD: 63000.0, Order type: 3
+2024-03-03 19:41:04 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 19:41:04 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 19:41:04 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 19:42:35 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 19:42:35 [ERROR] - Failed to retrieve symbol information.
+2024-03-03 19:42:35 [INFO] - Adjusting entry price for BTCUSD: 63000.0, Order type: 3
+2024-03-03 19:42:35 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 19:42:35 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 19:42:35 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 19:48:03 [INFO] - Starting the trading script.
+2024-03-03 19:48:03 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 19:49:57 [INFO] - Starting the trading script.
+2024-03-03 21:12:47 [INFO] - Starting the trading script.
+2024-03-03 21:20:31 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62288.61
+2024-03-03 21:20:31 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62356.09
+2024-03-03 21:21:30 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62282.26
+2024-03-03 21:21:30 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62342.77
+2024-03-03 21:21:30 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 62342.77.
+2024-03-03 21:21:30 [INFO] - Price 62342.77 is within the valid price range for 3.
+2024-03-03 21:21:31 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.1, price=62342.77, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:21:31 [DEBUG] - Done
+2024-03-03 21:21:31 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.1, 'type': 3, 'price': 62342.77, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 1}
+2024-03-03 21:21:31 [DEBUG] - Order result: None
+2024-03-03 21:21:31 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:22:28 [INFO] - Starting the trading script.
+2024-03-03 21:22:33 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:22:33 [ERROR] - Failed to retrieve symbol information.
+2024-03-03 21:22:33 [INFO] - Adjusting entry price for BTCUSD: 63000.0, Order type: 3
+2024-03-03 21:22:33 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 21:22:33 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 21:22:33 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:30:38 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:30:38 [ERROR] - Failed to retrieve symbol information.
+2024-03-03 21:30:38 [INFO] - Adjusting entry price for BTCUSD: 63000.0, Order type: 3
+2024-03-03 21:30:38 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 21:30:38 [ERROR] - Failed to get symbol info for BTCUSD.
+2024-03-03 21:30:38 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:30:51 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:30:53 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:30:55 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:30:57 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:30:59 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:31:00 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:31:01 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:31:02 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:31:14 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62404.39
+2024-03-03 21:31:14 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62490.5
+2024-03-03 21:31:57 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:31:57 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:31:57 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:31:57 [DEBUG] - Done
+2024-03-03 21:31:57 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 1}
+2024-03-03 21:31:57 [DEBUG] - Order result: None
+2024-03-03 21:31:57 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:32:01 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:32:01 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:32:01 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:32:01 [DEBUG] - Done
+2024-03-03 21:32:01 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 1}
+2024-03-03 21:32:01 [DEBUG] - Order result: None
+2024-03-03 21:32:01 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:32:02 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:32:02 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:32:02 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:32:02 [DEBUG] - Done
+2024-03-03 21:32:02 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 1}
+2024-03-03 21:32:02 [DEBUG] - Order result: None
+2024-03-03 21:32:02 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:32:03 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:32:03 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:32:03 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:32:03 [DEBUG] - Done
+2024-03-03 21:32:03 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 1}
+2024-03-03 21:32:03 [DEBUG] - Order result: None
+2024-03-03 21:32:03 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:32:04 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:32:04 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:32:04 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:32:04 [DEBUG] - Done
+2024-03-03 21:32:04 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 1}
+2024-03-03 21:32:04 [DEBUG] - Order result: None
+2024-03-03 21:32:04 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:33:21 [INFO] - Starting the trading script.
+2024-03-03 21:33:48 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:33:48 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:33:48 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:33:48 [DEBUG] - Done
+2024-03-03 21:33:48 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:33:48 [DEBUG] - Order result: None
+2024-03-03 21:33:48 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:33:51 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:33:51 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:33:51 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:33:51 [DEBUG] - Done
+2024-03-03 21:33:51 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:33:51 [DEBUG] - Order result: None
+2024-03-03 21:33:51 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:33:53 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:33:53 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:33:53 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:33:53 [DEBUG] - Done
+2024-03-03 21:33:53 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:33:53 [DEBUG] - Order result: None
+2024-03-03 21:33:53 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:33:54 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:33:54 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:33:54 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:33:54 [DEBUG] - Done
+2024-03-03 21:33:54 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:33:54 [DEBUG] - Order result: None
+2024-03-03 21:33:54 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:33:57 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:33:57 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:33:57 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:33:57 [DEBUG] - Done
+2024-03-03 21:33:57 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.01, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'deviation': 20, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:33:57 [DEBUG] - Order result: None
+2024-03-03 21:33:57 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:35:00 [INFO] - Starting the trading script.
+2024-03-03 21:35:27 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62433.08
+2024-03-03 21:35:27 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62503.25
+2024-03-03 21:35:56 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:35:56 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:35:57 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.26, profit=-39.23, margin=36543.27, margin_free=13745.99, margin_level=137.6156539904612, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:35:57 [DEBUG] - Done
+2024-03-03 21:35:57 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:35:57 [DEBUG] - Order result: None
+2024-03-03 21:35:57 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:37:13 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62538.18
+2024-03-03 21:37:13 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62620.51
+2024-03-03 21:38:33 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:38:33 [INFO] - Price 63000.0 is within the valid price range for 3.
+2024-03-03 21:38:33 [DEBUG] - Order Check Request: Done: OrderCheckResult(retcode=0, balance=50328.49, equity=50289.02, profit=-39.47, margin=36667.74, margin_free=13621.28, margin_level=137.1478580354284, comment='Done', request=TradeRequest(action=5, magic=0, order=0, symbol='BTCUSD', volume=0.01, price=63000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=0, type_time=0, expiration=0, comment='', position=0, position_by=0))
+2024-03-03 21:38:33 [DEBUG] - Done
+2024-03-03 21:38:33 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:38:33 [DEBUG] - Order result: None
+2024-03-03 21:38:33 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:43:56 [INFO] - Starting the trading script.
+2024-03-03 21:44:16 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62677.87
+2024-03-03 21:44:16 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62743.0
+2024-03-03 21:44:27 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:44:27 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:44:27 [DEBUG] - Order result: None
+2024-03-03 21:44:27 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:46:32 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:46:32 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:46:32 [DEBUG] - Order result: None
+2024-03-03 21:46:32 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:46:41 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:46:41 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:46:41 [DEBUG] - Order result: None
+2024-03-03 21:46:41 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:48:42 [INFO] - Starting the trading script.
+2024-03-03 21:48:45 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:49:02 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 21:49:10 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62699.34
+2024-03-03 21:49:10 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62774.7
+2024-03-03 21:49:33 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:49:33 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:49:33 [DEBUG] - Order result: None
+2024-03-03 21:49:33 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:53:17 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62745.02
+2024-03-03 21:53:17 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62809.03
+2024-03-03 21:55:38 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:55:38 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:55:38 [DEBUG] - Order result: None
+2024-03-03 21:55:38 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 21:56:49 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 21:56:49 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 21:56:49 [DEBUG] - Order result: None
+2024-03-03 21:56:49 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 22:06:02 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62950.36
+2024-03-03 22:06:02 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 63028.61
+2024-03-03 22:08:08 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 63000.0.
+2024-03-03 22:08:09 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 63000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:08:09 [DEBUG] - Order result: None
+2024-03-03 22:08:09 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 22:08:51 [INFO] - Placing orderType code (sell limit) code 3 order for BTCUSD at 64000.0.
+2024-03-03 22:08:51 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 64000.0, 'magic': 1440, 'comment': 'python script sell limit order', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:08:51 [DEBUG] - Order result: None
+2024-03-03 22:08:51 [ERROR] - An error occurred while placing (sell limit) code# 3 order: 'NoneType' object has no attribute 'comment'
+2024-03-03 22:11:05 [INFO] - Starting the trading script.
+2024-03-03 22:11:11 [ERROR] - Error fetching symbol info for BTCUSD.
+2024-03-03 22:11:21 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 64000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'main function', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:11:22 [DEBUG] - Order result: OrderSendResult(retcode=10009, deal=0, order=57585619, volume=0.001, price=0.0, bid=0.0, ask=0.0, comment='Request executed', request_id=2002822280, retcode_external=0, request=TradeRequest(action=5, magic=1440, order=0, symbol='BTCUSD', volume=0.001, price=64000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=2, type_time=0, expiration=0, comment='main function', position=0, position_by=0))
+2024-03-03 22:11:22 [INFO] - Order result details: Request executed
+2024-03-03 22:11:37 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 64000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'main function', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:11:37 [DEBUG] - Order result: OrderSendResult(retcode=10009, deal=0, order=57585620, volume=0.001, price=0.0, bid=0.0, ask=0.0, comment='Request executed', request_id=2002822281, retcode_external=0, request=TradeRequest(action=5, magic=1440, order=0, symbol='BTCUSD', volume=0.001, price=64000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=2, type_time=0, expiration=0, comment='main function', position=0, position_by=0))
+2024-03-03 22:11:37 [INFO] - Order result details: Request executed
+2024-03-03 22:11:39 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 64000.0, 'sl': 65000.0, 'magic': 1440, 'comment': 'main function', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:11:39 [DEBUG] - Order result: OrderSendResult(retcode=10009, deal=0, order=57585621, volume=0.001, price=0.0, bid=0.0, ask=0.0, comment='Request executed', request_id=2002822282, retcode_external=0, request=TradeRequest(action=5, magic=1440, order=0, symbol='BTCUSD', volume=0.001, price=64000.0, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=2, type_time=0, expiration=0, comment='main function', position=0, position_by=0))
+2024-03-03 22:11:39 [INFO] - Order result details: Request executed
+2024-03-03 22:23:57 [DEBUG] - Type of symbol_info.bid: <class 'float'>, value: 62829.34
+2024-03-03 22:23:57 [DEBUG] - Type of symbol_info.ask: <class 'float'>, value: 62898.51
+2024-03-03 22:42:33 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 62786.82, 'sl': 65000.0, 'magic': 1440, 'comment': 'main function', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:42:34 [DEBUG] - Order result: OrderSendResult(retcode=10009, deal=0, order=57585690, volume=0.001, price=0.0, bid=0.0, ask=0.0, comment='Request executed', request_id=2002822286, retcode_external=0, request=TradeRequest(action=5, magic=1440, order=0, symbol='BTCUSD', volume=0.001, price=62786.82, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=2, type_time=0, expiration=0, comment='main function', position=0, position_by=0))
+2024-03-03 22:42:34 [INFO] - Order result details: Request executed
+2024-03-03 22:44:32 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 62786.82, 'sl': 65000.0, 'magic': 1440, 'comment': 'main function', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:44:32 [DEBUG] - Order result: OrderSendResult(retcode=10009, deal=0, order=57585692, volume=0.001, price=0.0, bid=0.0, ask=0.0, comment='Request executed', request_id=2002822287, retcode_external=0, request=TradeRequest(action=5, magic=1440, order=0, symbol='BTCUSD', volume=0.001, price=62786.82, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=2, type_time=0, expiration=0, comment='main function', position=0, position_by=0))
+2024-03-03 22:44:32 [INFO] - Order result details: Request executed
+2024-03-03 22:45:45 [DEBUG] - Order Send request: {'action': 5, 'symbol': 'BTCUSD', 'volume': 0.001, 'type': 3, 'price': 62786.82, 'sl': 65000.0, 'magic': 1440, 'comment': 'main function', 'type_time': 0, 'type_filling': 2}
+2024-03-03 22:45:45 [DEBUG] - Order result: OrderSendResult(retcode=10009, deal=0, order=57585696, volume=0.001, price=0.0, bid=0.0, ask=0.0, comment='Request executed', request_id=2002822290, retcode_external=0, request=TradeRequest(action=5, magic=1440, order=0, symbol='BTCUSD', volume=0.001, price=62786.82, stoplimit=0.0, sl=65000.0, tp=0.0, deviation=0, type=3, type_filling=2, type_time=0, expiration=0, comment='main function', position=0, position_by=0))
+2024-03-03 22:45:45 [INFO] - Order result details: Request executed
